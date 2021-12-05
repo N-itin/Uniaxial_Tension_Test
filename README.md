@@ -2,7 +2,7 @@
 A program, which evaluates Hooke’s law for the case of a uniaxial tension test with a sinusoidal time series.
 This program provides evaluation of Hooke’s law for the case of a uniaxial tension test with a sinusoidal time series. Python is chosen for its user-friendly interface, easy coding, editing and provides a great number of libraries which can be used to interact with external software also.
 
-	The user should specify the parameters of the test course as well as Hooke's law via a text file.
+	The user should specify the parameters of the test course as well as Hooke's law via a text file - 'D:/input_format.txt'
 	The components of the resulting stress state shall be displayed graphically over time as well as the deformation – section 1.3 
 	The results of the evaluation of the material law shall be written into a text file. The file name as well as the location shall be defined by the user.
 	Geometry of the specimen is described as per technical standards (ASTM, DIN, ISO.)
