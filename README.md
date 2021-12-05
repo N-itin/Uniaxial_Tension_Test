@@ -164,7 +164,7 @@ Section 1.3: Graphs
 	True stress vs time.
 	Engineering stress and true stress vs time in one graph.
 	Stress vs strain.
-	Engineering stress vs engineering strain.
+	Engineering stress vs engineering strain (Hooke's law).
 	True Stress vs true strain.
 	Engineering stress and true stress vs Stretch ratio in one graph.
 
